@@ -25,3 +25,6 @@ Raw climate products (download them from the providers), the GHCN-Daily cache, a
 Code: MIT (see LICENSE). Data, maps and figures (on Zenodo): CC BY 4.0.
 
 Cite as: Gana, M., Touaba, C. (2026). Data, code and figures for "Bioclimatic boundaries on the move: a multi-product assessment of Emberger stage shifts in northern Algeria, 1961-2025". Zenodo. https://doi.org/10.5281/zenodo.24162524
+## Note on completeness
+
+This repository holds the main analysis scripts. Some scripts named in the run order above (for example the Daget-framework, homogeneity and figure scripts) and all result files are in the Zenodo deposit, which is the complete, citable version: https://doi.org/10.5281/zenodo.24162524
